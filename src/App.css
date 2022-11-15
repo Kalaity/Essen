@@ -1,0 +1,21 @@
+*{
+  text-align: center;
+  background-color: rgba(146, 171, 162, 0.733);
+     }
+
+button {
+  display:center;
+  color:rgb(249, 247, 244);
+  Background-color:rgba(238, 7, 45, 0.733);
+  border-radius: 5px;
+  text-transform: uppercase;
+  border-color: red;
+  
+
+}
+
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-bottom: 50px;
+  margin-top: 100px;
+}
